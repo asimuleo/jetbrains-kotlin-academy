@@ -1,0 +1,4 @@
+#Fri May 07 20:58:55 KST 2021
+base.0=C\:\\Users\\csjav\\Desktop\\Tip Calculator\\Tip Calculator\\task\\build\\intermediates\\dex\\release\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
